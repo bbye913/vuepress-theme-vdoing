@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: vuepress-theme-vdoing
+  annotations:
+    github.com/project-slug: bbye913/vuepress-theme-vdoing
+spec:
+  type: other
+  lifecycle: unknown
+  owner: team-d
